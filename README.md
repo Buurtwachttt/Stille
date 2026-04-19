@@ -70,11 +70,11 @@ currently_learning:
 | Python      | 8 years    |
 | Lua         | 7 years    |
 | JavaScript  | 6 years    |
-| TypeScript  | 5 years    |
 | HTML        | 6 years    |
 | CSS         | 6 years    |
 | TailwindCSS | 6 years    |
 | SQL         | 6 years    |
+| TypeScript  | 5 years    |
 | C / C++     | 3 years    |
 | Golang      | 2 years    |
 | PHP         | 1 year     |
